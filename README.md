@@ -1,2 +1,0 @@
-# Hakaton
-Hakatona projekts
