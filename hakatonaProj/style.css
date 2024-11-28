@@ -65,3 +65,32 @@ button:hover {
     background-color: #f44336;
     color: white;
 }
+
+.label {
+    font-weight: bold;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin-right: 10px;
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.vegan {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.vegetarian {
+    background-color: #FF9800;
+    color: white;
+}
+
+.label i {
+    font-size: 1.2em;
+}
+
+.label:hover {
+    opacity: 0.8;
+}
+
